@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:develop" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:develop" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:yufei" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1949a5b9-47e2-4617-8a3a-6b4324de1bb3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Core/Detect/source/lane_detect/source/LaneNet.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Core/Detect/source/lane_detect/source/LaneNet.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Core/Detect/source/lane_detect/test/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Core/Detect/source/lane_detect/test/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Manager/test/TestProject/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Manager/test/TestProject/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platform/Android/app/src/main/cpp/transferToSocol.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../platform/Android/app/src/main/cpp/transferToSocol.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1zRn0oNl0FvHVs2dArbNkqfm5Lh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.client">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoverAlgorithmsImpl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmStructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DiscoverAlgorithmsImpl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmStructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.DiscoverAlgorithmsImpl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1949a5b9-47e2-4617-8a3a-6b4324de1bb3" name="Default Changelist" comment="" />
+      <created>1634119547578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634119547578</updated>
+      <workItem from="1634119548796" duration="2031000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2518" height="444" key="GridCell.Tab.0.bottom" timestamp="1634125645458">
+      <screen x="-399" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="444" key="GridCell.Tab.0.bottom/-399.-1417.2560.1417/0.23.1792.1097@-399.-1417.2560.1417" timestamp="1634125645458" />
+    <state width="2518" height="444" key="GridCell.Tab.0.center" timestamp="1634125645457">
+      <screen x="-399" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="444" key="GridCell.Tab.0.center/-399.-1417.2560.1417/0.23.1792.1097@-399.-1417.2560.1417" timestamp="1634125645457" />
+    <state width="2518" height="444" key="GridCell.Tab.0.left" timestamp="1634125645456">
+      <screen x="-399" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="444" key="GridCell.Tab.0.left/-399.-1417.2560.1417/0.23.1792.1097@-399.-1417.2560.1417" timestamp="1634125645456" />
+    <state width="2518" height="444" key="GridCell.Tab.0.right" timestamp="1634125645458">
+      <screen x="-399" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="444" key="GridCell.Tab.0.right/-399.-1417.2560.1417/0.23.1792.1097@-399.-1417.2560.1417" timestamp="1634125645458" />
+    <state width="2518" height="626" key="GridCell.Tab.1.bottom" timestamp="1634125384046">
+      <screen x="-399" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="626" key="GridCell.Tab.1.bottom/-399.-1417.2560.1417/0.23.1792.1097@-399.-1417.2560.1417" timestamp="1634125384046" />
+    <state width="2518" height="626" key="GridCell.Tab.1.center" timestamp="1634125384044">
+      <screen x="-399" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="626" key="GridCell.Tab.1.center/-399.-1417.2560.1417/0.23.1792.1097@-399.-1417.2560.1417" timestamp="1634125384044" />
+    <state width="2518" height="626" key="GridCell.Tab.1.left" timestamp="1634125384043">
+      <screen x="-399" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="626" key="GridCell.Tab.1.left/-399.-1417.2560.1417/0.23.1792.1097@-399.-1417.2560.1417" timestamp="1634125384043" />
+    <state width="2518" height="626" key="GridCell.Tab.1.right" timestamp="1634125384045">
+      <screen x="-399" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="626" key="GridCell.Tab.1.right/-399.-1417.2560.1417/0.23.1792.1097@-399.-1417.2560.1417" timestamp="1634125384045" />
+    <state x="390" y="-1070" key="SettingsEditor" timestamp="1634119599366">
+      <screen x="-399" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="390" y="-1070" key="SettingsEditor/-399.-1417.2560.1417/0.23.1792.1097@-399.-1417.2560.1417" timestamp="1634119599366" />
+  </component>
+</project>
